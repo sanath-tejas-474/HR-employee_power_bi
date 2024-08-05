@@ -4,7 +4,7 @@
 
 This project analyzes employee attendance, work from home (WFH), half WFH, sick leave (SL), and holidays data over a period of three years to provide insights into employee presence trends. The dashboard helps in identifying the best employees, understanding WFH preferences, sick leave trends, and overall attendance percentages.
 
-![HR Employee Presence Report](./Dashboard/Power BI Desktop 05-08-2024 11_59_09.png)
+![HR Employee Presence Report](./Dashboard/ok.png)
 
 ## Dataset
 
